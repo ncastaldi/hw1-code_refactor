@@ -1,2 +1,2 @@
 # wk1-homework-code_refactor
-Refactor code for Horiseon website
+Assignment: Refactor code for Horiseon website
