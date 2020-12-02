@@ -6,6 +6,7 @@
 
 body {
   background-color: #d9dcd6;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; /* condensed repeated code pt3 */
 }
 
 header {
@@ -29,7 +30,6 @@ header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
 
@@ -84,11 +84,10 @@ figure {
   float: right;
   width: 20%;
   height: 100%;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
-  color: #ffffff; /* condensed repeated code */
-  margin-bottom: 10px; /* condensed repeated code */
-  text-align: center; /* condensed repeated code */
+  color: #ffffff; /* condensed repeated code pt1*/
+  margin-bottom: 10px; /* condensed repeated code pt1*/
+  text-align: center; /* condensed repeated code pt1*/
 }
 
 .benefit-lead {
@@ -108,7 +107,7 @@ figure {
   text-align: center;
 }
 
-.benefits img {  /* condensed repeated code */
+.benefits img {  /* condensed repeated code pt2*/
   display: block;
   margin: 10px auto;
   max-width: 150px;
@@ -118,7 +117,6 @@ figure {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -127,7 +125,6 @@ figure {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -136,7 +133,6 @@ figure {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
 }
