@@ -57,6 +57,7 @@ figure {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    content: "Hero picture alt text"; /* Added alt text for screen readers */
 }
 
 .float-left {
