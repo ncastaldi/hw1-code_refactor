@@ -22,12 +22,12 @@ If you need an example of a good README, check out [the VSCode repository](https
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Badges](#badges)
 
 
 ## Installation
 
-Upload required folders to root of web server.
-
+Installation requires uploading the application files and folders to root of web server.
 
 
 ## Usage 
@@ -41,15 +41,6 @@ GitHub Repository: [https://github.com/ncastaldi/wk1-homework-code_refactor](htt
 Live Site: [https://www.castaldi.dev/wk1-homework-code_refactor/](https://www.castaldi.dev/wk1-homework-code_refactor/)
 
 ![alt text](assets/images/sitescreenshot.png)
-
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 
 ## License
@@ -76,20 +67,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+[![GitHub license](https://img.shields.io/github/license/ncastaldi/wk1-homework-code_refactor?style=flat-square)](https://github.com/ncastaldi/wk1-homework-code_refactor)
