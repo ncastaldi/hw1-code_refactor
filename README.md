@@ -14,7 +14,6 @@ Live Site: [https://www.castaldi.dev/wk1-homework-code_refactor/](https://www.ca
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 * [Badges](#badges)
 
