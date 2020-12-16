@@ -8,7 +8,7 @@ I replaced all non-semantic HTML tags in 'index.html' with their semantic counte
 
 I also added a reset.css file.
 
-Live Site: [https://www.castaldi.dev/wk1-homework-code_refactor/](https://www.castaldi.dev/wk1-homework-code_refactor/)
+Live Site: [https://www.castaldi.dev/hw1-code_refactor/](https://www.castaldi.dev/hw1-code_refactor/)
 
 ## Table of Contents
 
@@ -27,11 +27,11 @@ Installation requires uploading the application files and folders to root of web
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-GitHub Repository: [https://github.com/ncastaldi/wk1-homework-code_refactor](https://github.com/ncastaldi/wk1-homework-code_refactor)
+GitHub Repository: [https://github.com/ncastaldi/hw1-code_refactor/](https://github.com/ncastaldi/hw1-code_refactor/)
 
 ![alt text](assets/images/reposcreenshot.png)
 
-Live Site: [https://www.castaldi.dev/wk1-homework-code_refactor/](https://www.castaldi.dev/wk1-homework-code_refactor/)
+Live Site: [https://www.castaldi.dev/hw1-code_refactor/](https://www.castaldi.dev/hw1-code_refactor/)
 
 ![alt text](assets/images/sitescreenshot.png)
 
